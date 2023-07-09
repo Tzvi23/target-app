@@ -1,3 +1,4 @@
-@Library('split-shared@scope-check') _
+@Library('split-shared@bring-structure') _
 
-variablePipeline()
+def pipeline = new repo.BasicPipeline()
+pipeline.run()
