@@ -2,6 +2,6 @@
 
 import autodeploy.common.LocationEnum
 
-LocationEnum location = repo.common.LocationEnum.AWS
+LocationEnum location = autodeploy.common.LocationEnum.AWS
 def pipeline = new repo.BasicPipeline(this, location)
 pipeline.run()
