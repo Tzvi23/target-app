@@ -1,5 +1,24 @@
-object1:
+## Demo data
+object1_settings:
   - data: "object1"
     version: "1.0.0"
   - data: "obkect2"
     version: "1.0.2"
+
+# More demo data
+
+object2_options_settings:
+  - data: 123
+    varsion: blabla
+  - data: 321
+
+# #####
+# Demot data
+# ######
+
+object3_data_settings:
+  data:
+    custom_data:
+      - 1
+      - 2
+      - 3
