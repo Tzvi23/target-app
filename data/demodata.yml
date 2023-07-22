@@ -22,3 +22,10 @@ object3_data_settings:
       - 1
       - 2
       - 3
+
+object4_data_settings:
+  data:
+    custom_data:
+      - 1
+      - 2
+      - 3
